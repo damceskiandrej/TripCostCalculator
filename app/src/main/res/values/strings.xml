@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TripCostCalculator</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="btn_calculate">Пресметај Трошоци</string>
+    <string name="btn_history">Историја на Патувања</string>
+    <string name="btn_camera">Камера</string>
+</resources>
